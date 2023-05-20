@@ -1,0 +1,15 @@
+Temperature,Outlook,Humidity,Windy,Played
+Mild,Sunny,80,0,1
+Hot,Sunny,75,1,0
+Hot,Overcast,77,0,1
+Cool,Rain,70,0,1
+Cool,Overcast,72,1,1
+Mild,Sunny,77,0,0
+Cool,Sunny,70,0,1
+Mild,Rain,69,0,1
+Mild,Sunny,65,1,1
+Mild,Overcast,77,1,1
+Hot,Overcast,74,0,1
+Mild,Rain,77,1,0
+Cool,Rain,73,1,0
+Mild,Rain,78,0,1
