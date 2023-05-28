@@ -1,3 +1,4 @@
 final-project/car_data
 *.zip
 *.pt
+*.pth
